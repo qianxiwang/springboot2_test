@@ -12,4 +12,5 @@ public class Springboot2TestApplication {
 		SpringApplication.run(Springboot2TestApplication.class, args);
 	}
 
+
 }
